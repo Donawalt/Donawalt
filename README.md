@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Donawalt)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Donawalt&show_icons=true&theme=default)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donawalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
