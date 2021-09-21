@@ -1,5 +1,5 @@
 <h1 align="center">Hy , I'm Donaël WALTER 👋</h1>
-<p align="center">Creative Developper at BIHUA & student at HETIC</p>
+<p align="center">Creative Developper at BIHUA & graduated from HETIC</p>
 
 ## 🔭 I’m currently working on ...
 - Interactive Websites 
