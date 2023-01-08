@@ -10,6 +10,7 @@
 
 ## 🌱 I’m currently learning ...
 - 3D Design with Blender 
+- Shader in GLSL 
 
 ## 👯 I’m looking to collaborate on ...
 - Interactive Projects
