@@ -10,12 +10,13 @@
 
 ## 🌱 I’m currently learning ...
 - 3D Design with Blender 
-- Shader in GLSL 
+- Shader in GLSL
+- Rust
 
 ## 👯 I’m looking to collaborate on ...
 - Interactive Projects
-- Game Developement 
-- Audiovisual Production 
+- Audiovisual Production
+- Tailor made Websites with a strong branding 
 
 ## 📫 How to reach me: ...
 - Mail: contact@donaelwalter.com
