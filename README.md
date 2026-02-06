@@ -5,7 +5,6 @@
 
 ## 🔭 I’m currently working on ...
 - Interactive Websites 
-- Music Label (Side Project)
 - HarmonyHub a tools to help musician to make their projects
 
 ## 🌱 I’m currently learning ...
