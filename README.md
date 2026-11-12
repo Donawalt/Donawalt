@@ -1,7 +1,7 @@
 ![Cover](https://mir-s3-cdn-cf.behance.net/4a7985ab45586605b8226fa915fb0bfc/927631e9-a34f-401b-8315-1503a46553f0_rwc_-4x759x4592x650x4592.JPG?h=6f88253bbfa497fc889b1f7b22e0eb43)
 
 <h1 align="center">Hi , I'm Donaël WALTER 👋</h1>
-<p align="center">Creative Developer, Brand Designer & Photographer - Freelance, previously Creative Developper at BIHUA, & graduated from HETIC</p>
+<p align="center">Design engineer & creative developer for premium agencies | From Figma to Next.js, React, Sanity | 4× Awwwards HM & 1× CSSDA SOTD</p>
 
 ## 🔭 I’m currently working on ...
 - Interactive Websites 
